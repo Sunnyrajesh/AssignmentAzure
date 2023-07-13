@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'Skywell'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9AEFF1E9CD3B4EE3A06977C04862B136 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E03DEEAE619E498E9E25081086052F82 }}
           package: '*.jar'
